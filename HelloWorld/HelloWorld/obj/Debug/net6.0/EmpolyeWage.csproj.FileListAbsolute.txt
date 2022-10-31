@@ -1,0 +1,15 @@
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\EmpolyeWage.exe
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\EmpolyeWage.deps.json
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\EmpolyeWage.runtimeconfig.json
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\EmpolyeWage.dll
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\EmpolyeWage.pdb
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.csproj.AssemblyReference.cache
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.AssemblyInfoInputs.cache
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.AssemblyInfo.cs
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.csproj.CoreCompileInputs.cache
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.dll
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\EmpolyeWage.dll
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.pdb
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\EmpolyeWage.genruntimeconfig.cache
+C:\Users\Syuog\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\EmpolyeWage.dll
